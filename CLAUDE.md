@@ -6,7 +6,9 @@ Tutoie-moi. Écris dans un français vivant, simple, assumé.
 **Les fichiers du projet**
 - `CLAUDE.md` (ce fichier) : qui je suis, mes règles, ta méthode.
 - `videos.md` : le plan de toutes mes vidéos. **C'est toi qui le tiens à jour.**
+- `inspiration.md` : ce qui cartonne dans mon thème (modèles de titres, miniatures) et la banque d'idées.
 - `miniatures/` : mes photos dans `miniatures/photos/`, les miniatures fabriquées à côté, et un seul script `miniatures/fabrique.py`.
+- `outils/veille.py` : l'outil qui repère les vidéos qui explosent sur YouTube. Il a besoin de l'environnement cloud « Youtube », qui autorise youtube.com.
 
 ---
 
@@ -40,6 +42,17 @@ Utilise ces trois leviers psychologiques, seuls ou combinés :
 2. **Le contre-pied** : casser une croyance qu'il a sur lui-même ou une « vérité » répandue.
 3. **La boucle ouverte** : poser une question dont la réponse est dans la vidéo.
 
+Et ces leviers, repérés sur les vidéos qui explosent dans mon thème (exemples dans `inspiration.md`) :
+- **L'absolution** : enlever la culpabilité (« Ce n'est pas de la flemme »). Ma cible a honte de ne pas avancer. La soulager donne envie de cliquer.
+- **La perte** : on réagit plus à ce qu'on perd qu'à ce qu'on gagne. « Des années perdues » accroche plus que « réussis ton projet ».
+- **Le raccourci** : beaucoup de valeur pour peu de temps (« 10 ans de galère, 12 minutes de vidéo »).
+- **Le défaut qui devient une force** : on clique sur ce qui dit qui on est, surtout quand ça retourne un défaut.
+- **L'appel direct** : « Si tu… ». Le spectateur se trie lui-même : celui qui se reconnaît clique.
+- **La confession** : le « je » vulnérable (« Je rêve en grand mais je ne fais rien ») crée le miroir et la confiance.
+- **Le feu vert** : donner la permission (« Maintenant, crée. ») soulage plus qu'une méthode.
+- **L'autorité empruntée** : un créateur admiré (Rick Rubin, Miyazaki) rend le message crédible.
+- **La précision** : un chiffre exact (« 52 ans », « 58 secondes ») rend le titre crédible.
+
 Règles :
 - Environ 60 caractères maximum, les mots forts au début.
 - Un ressenti ou une situation, jamais un concept abstrait.
@@ -49,9 +62,11 @@ Règles :
 
 ## 4. Règles pour les miniatures
 
-- **Mon vrai visage**, en gros plan, expressif, regard caméra. Je te fournis une capture de la vidéo ou une photo.
+- **Mon vrai visage**, en gros plan, regard caméra. Je te fournis une capture de la vidéo ou une photo.
+- **Une expression sincère** : dans mon thème, un regard calme et direct marche mieux qu'une grimace.
 - **Quatre mots maximum**, jamais les mêmes que le titre : la miniature complète le titre.
-- Texte en grosses lettres blanches avec un contour ou une ombre sombre, très lisible.
+- Le texte sonne comme une confession ou un verdict (« Encore demain… », « Ils s'en fichent. »).
+- Texte en grosses lettres blanches avec un contour ou une ombre sombre, très lisible. Au plus un mot dans une couleur d'accent, toujours la même.
 - Fond : la nature de ma marche, légèrement floutée.
 - Format **1280 × 720 px**, en PNG ou JPG, moins de 2 Mo.
 - Fabrique-la avec du code (Python et Pillow) à partir de ma photo, toujours avec `miniatures/fabrique.py`, pour garder le même style d'une vidéo à l'autre.
@@ -94,8 +109,14 @@ Je m'éparpille : une question à la fois, et ramène-moi à l'essentiel.
 2. Tu vérifies qu'elle entre dans un pilier et ne doublonne pas `videos.md`. Sinon, tu me le dis franchement et tu la mets au parking.
 3. Tu l'ajoutes à `videos.md` et tu me réponds en 2 lignes. Pas de titre tant que je ne le demande pas.
 
+**« Pas d'inspi »**
+Tu pioches **une seule** idée dans la banque de `inspiration.md` : celle qui comble le mieux ce qui manque au plan. Tu me la donnes en 3 lignes : le sujet, un titre provisoire, pourquoi elle. Si je dis oui, elle passe dans `videos.md` et sort de la banque. Si je dis non, tu me proposes la suivante. Banque vide : tu en crées de nouvelles à partir des modèles et de mes convictions.
+
+**« Veille »** (une fois par mois suffit)
+Tu lances `python3 outils/veille.py`, tu regardes les miniatures des meilleures pépites (`https://i.ytimg.com/vi/<id>/hqdefault.jpg`) et tu mets `inspiration.md` à jour : les nouveaux modèles, les chiffres, la banque d'idées.
+
 **« Titre n°X »**
-1. Tu proposes 3 titres et tu en recommandes **un seul**, en 2 lignes.
+1. Tu relis les modèles de `inspiration.md`. Tu proposes 3 titres, dont au moins un inspiré d'un modèle qui a fait ses preuves, et tu en recommandes **un seul**, en 2 lignes.
 2. Tu proposes le texte de la miniature et l'expression de mon visage.
 3. Quand je valide, tu mets `videos.md` à jour (statut ✏️).
 
