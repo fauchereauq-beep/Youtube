@@ -28,8 +28,11 @@ _Rien pour l'instant._
 
 **01** · 💰 · Frein · Mon élan
 - Sujet : je procrastine sur ce qui me tient le plus à cœur
-- Titre : **Ton projet attend depuis des années ? Ce n'est pas de la flemme.** (64 car., le cœur tient dans les 37 premiers)
-- Miniature : « ENCORE DEMAIN… » · visage coupable et amusé
+- **3 combinaisons à tester** (proposées, à valider) :
+  - **A, absolution** ⭐ départ : **Tu n'es pas flemmard, ton corps te protège** (42 car.) + « ENCORE DEMAIN… » · visage coupable et amusé
+  - **B, confession** : **J'ai repoussé mon projet 7 ans. Ce n'était pas de la flemme.** (60 car., ton vrai chiffre à confirmer) + « J'avais honte. » · visage grave
+  - **C, corps messager** : **Ce que ton corps te dit quand tu remets à demain** (48 car.) + pancarte écrite à la main « Lundi, promis. » · demi-sourire
+- Ancien titre : « Ton projet attend depuis des années ? Ce n'est pas de la flemme. » (64 car., l'absolution tombait dans la partie coupée sur téléphone)
 - Fiche de tournage : `fiches/01-encore-demain.md`
 
 ## 💡 Idées

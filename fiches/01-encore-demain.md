@@ -1,17 +1,20 @@
 # Fiche n°01 — Ce n'est pas de la flemme
 
-**Titre** : Ton projet attend depuis des années ? Ce n'est pas de la flemme.
-**Miniature** : « ENCORE DEMAIN… » · visage coupable et amusé
+**3 combinaisons à tester** (titre + miniature)
+- **A** ⭐ : Tu n'es pas flemmard, ton corps te protège · « ENCORE DEMAIN… »
+- **B** : J'ai repoussé mon projet 7 ans. Ce n'était pas de la flemme. · « J'avais honte. »
+- **C** : Ce que ton corps te dit quand tu remets à demain · pancarte « Lundi, promis. »
 **Météo du jour** : ⛈️ orage → 🌫️ brouillard · **Métaphore** : le frein à main
 **Durée visée** : 10 minutes · 7 clés = 7 lieux
 
 **📱 Téléphone à l'horizontale**, pour la vidéo comme pour la photo.
 
-**📸 Photo pour la miniature** (sur place, au lieu de l'accroche)
-- Ton visage sur le tiers gauche de l'image, la nature derrière toi.
-- La droite reste vide : c'est la place du texte « ENCORE DEMAIN… ».
-- Expression : coupable et amusé, comme pris en flagrant délit. Regard caméra.
-- 4 ou 5 photos, puis tu me les envoies.
+**📸 Photos pour les 3 miniatures** (sur place, au lieu de l'accroche, 2 minutes)
+- À chaque fois : ton visage sur le tiers gauche de l'image, la nature derrière toi, la droite vide pour le texte. Regard caméra.
+- **A** : coupable et amusé, comme pris en flagrant délit.
+- **B** : grave, regard direct, sans sourire.
+- **C** : tu tiens une feuille où tu as écrit au gros marqueur noir « Lundi, promis. », avec un demi-sourire. _(Prépare la feuille avant de partir.)_
+- 3 photos de chaque, puis tu me les envoies.
 
 ---
 

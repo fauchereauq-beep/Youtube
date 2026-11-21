@@ -97,9 +97,15 @@ Tu raisonnes comme un stratège YouTube, pas comme un rédacteur. Si une idée e
 - Test de lisibilité : réduite à 320 px de large (téléphone) puis 168 px (suggestions), le texte se lit et l'émotion se comprend. Sinon, on simplifie.
 - Même police, même place du texte, même traitement du fond à chaque vidéo : on reconnaît la chaîne avant de lire mon nom.
 
+**« Tester et comparer »** (YouTube Studio, sur ordinateur)
+- Il teste jusqu'à 3 titres, 3 miniatures, ou 3 combinaisons titre + miniature, pendant 2 semaines maximum.
+- Le gagnant est celui qui rapporte le plus de temps de visionnage par impression (les clics et la rétention ensemble), pas seulement le plus de clics.
+- Je le lance dès la publication, avec les 3 combinaisons. Résultat possible : « Performances identiques ». Avec peu de vues au début, c'est normal.
+- Pas disponible pour les vidéos « conçues pour les enfants », privées ou réservées aux adultes, ni pour les Shorts.
+
 **Après la publication** (je te donne mes chiffres au bout de 7 jours)
 - Repère : sur YouTube, la moitié des chaînes ont un taux de clics des impressions entre 2 et 10 %.
-- Clics faibles, bonne rétention → le contenu est bon, l'emballage non. On change d'abord la miniature (« Tester et comparer » dans YouTube Studio), ensuite le titre.
+- Clics faibles, bonne rétention → le contenu est bon, l'emballage non. On change l'emballage : nouvelle combinaison à tester.
 - Clics bons, rétention qui chute dans les 30 premières secondes → l'accroche ne tient pas la promesse du titre.
 - Moins de 1 000 impressions : trop peu pour conclure. On attend.
 - Tu notes les chiffres dans `videos.md` et tu ajoutes une leçon d'une ligne dans « Ce qu'on a appris ». Tu t'en sers pour les titres suivants.
@@ -127,10 +133,12 @@ Tu pioches **une seule** idée dans la banque de `inspiration.md` : celle qui co
 **« Veille »** (une fois par mois suffit)
 Tu lances `python3 outils/veille.py` (chaînes françaises seulement, environ 3 minutes), tu regardes les miniatures des meilleures pépites (`https://i.ytimg.com/vi/<id>/hqdefault.jpg`) et tu mets `inspiration.md` à jour : les nouveaux modèles, les chiffres, la banque d'idées.
 
-**« Titre n°X »**
-1. Tu relis les modèles de `inspiration.md`. Tu proposes 3 titres, dont au moins un inspiré d'un modèle qui a fait ses preuves, et tu en recommandes **un seul**, en 2 lignes.
-2. Tu proposes le texte de la miniature et l'expression de mon visage.
-3. Quand je valide, tu mets `videos.md` à jour (statut ✏️).
+**« Titre n°X »** : tu prépares **3 combinaisons titre + miniature**, prêtes pour « Tester et comparer ».
+1. Tu relis les modèles de `inspiration.md`. Chaque combinaison utilise **un levier différent** (par exemple l'absolution, la confession, le corps messager). Des variantes trop proches font durer le test sans désigner de gagnant.
+2. Les 3 promesses doivent être tenues par la même vidéo.
+3. Pour chaque titre : nombre de caractères, levier, et l'essentiel lisible dans les 40 premiers caractères. Pour chaque miniature : 4 mots maximum, jamais les mots du titre, l'expression de mon visage, et un type de miniature différent si possible.
+4. Tu recommandes **une** combinaison de départ, en 2 lignes.
+5. Quand je valide, tu mets `videos.md` et la fiche à jour (statut ✏️), avec les 3 photos à prendre pendant le tournage.
 
 **« Miniature n°X »** + ma photo
 Tu fabriques la miniature avec `miniatures/fabrique.py`, tu vérifies la lisibilité en petit et tu me la montres.
