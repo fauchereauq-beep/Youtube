@@ -9,10 +9,10 @@
 
 ## 📊 Bilan
 
-- **Cible** : 🌍 2 · 💰 5. L'équilibre 1 sur 3 est respecté.
-- **Piliers** : Frein 3 · Peur 2 · Anime 2.
-- **Formats** : Mon élan 4 · Fausses vérités 1 · À chaud 1 · Que ferait… 1 · **Les Créateurs 0** ← à combler.
-- **Ordre de publication** : 01 · 02 · 04 · 03 · 05 · 06 · 07, pour garder 1 🌍 sur 3.
+- **Cible** : 🌍 2 · 💰 6. **Il manque un 🌍** : la prochaine idée validée doit être Large.
+- **Piliers** : Frein 3 · Peur 3 · Anime 2.
+- **Formats** : Mon élan 4 · Fausses vérités 2 · À chaud 1 · Que ferait… 1 · **Les Créateurs 0** ← à combler.
+- **Ordre de publication** : 01 · 02 · 04 · 03 · 05 · 06 · 07 · 08, pour garder 1 🌍 sur 3.
 
 ---
 
@@ -42,6 +42,7 @@ Dans l'ordre de publication prévu.
 - **05** · 💰 · Frein · Fausses vérités — Il faut de la motivation pour agir ? Faux.
 - **06** · 🌍 · Frein · Que ferait… — Que ferait Einstein de tes mille idées ?
 - **07** · 💰 · Anime · Mon élan ? — Le masque que tu portes au travail t'épuise
+- **08** · 💰 · Peur · Les fausses vérités — « Je ne suis pas créatif. » Faux : ta créativité n'est pas morte à l'école, ton corps a juste appris que se tromper était dangereux. _(recentré depuis « l'école qui nous formate »)_
 
 _« ? » = format deviné, à confirmer._
 
