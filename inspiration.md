@@ -1,87 +1,155 @@
-# Ce qui cartonne dans ton thème
+# Ce qui cartonne dans ton thème, en France
 
-**Mise à jour** : 20 novembre 2026 · 1 671 vidéos et 1 178 chaînes passées au crible (70 recherches en français et en anglais, sur tes 3 piliers).
+**Mise à jour** : 21 novembre 2026, avec `outils/veille.py`.
+**Méthode** : 150 recherches en français sur tes piliers et tes angles (psychologie, spiritualité, facettes du TDAH, multipotentiels, l'artiste en nous). 3 204 chaînes trouvées, **2 451 vraiment francophones** (titres d'origine vérifiés), **497 pépites** de moins de 2 ans.
 
-**Comment lire « 37x »** : la vidéo a fait 37 fois plus de vues que la chaîne n'a d'abonnés. Au-dessus de 5x, c'est une **pépite** : le titre et la miniature ont touché bien au-delà des abonnés.
-_Limite_ : on compare les vues totales aux abonnés d'aujourd'hui. Une pépite a souvent fait grossir sa chaîne, donc le vrai écart était encore plus grand.
-
----
-
-## Les 6 modèles de titres qui explosent
-
-### 1. Le temps perdu, rendu en minutes
-- « It took me 30+ years to realize what I'll tell you in 10 minutes... » — Maggie McCormack · 9,5 M vues · 37x
-- « I'm 73... It Took Me 52 Years To Learn This (Don't Waste Yours) » — Peter Whitmore · 4,2 M · 35x
-- « It took me 10+ years to realize what I'll tell you in 8 minutes » — Developete · 4,6 M · 25x
-- Copié par au moins 5 autres chaînes, qui ont toutes explosé.
-
-**Pourquoi ça marche** : la perte (des années) fait plus mal que le gain ne fait envie. Et le raccourci est énorme : 10 ans contre 10 minutes.
-**Pour toi** : « J'ai perdu 5 ans à avoir peur du regard des autres » (avec ton vrai chiffre). Parfait pour la **n°02**.
-
-### 2. Ton défaut est un atout caché
-- « If You Have Too Many Interests, You Are Probably Built For The 'M-Shaped' Future » — Psychology Explained · 800 k · **60x**
-- Le même titre, copié par PsychologyAboutYou · 2,5 M · 22x
-- « Psychology of Polymaths: Why Having Multiple Interests Is an Unfair Advantage » — PsychToons · 3,6 M · 15x
-
-**Pourquoi ça marche** : on clique sur ce qui dit qui on est, surtout quand un défaut devient une force. Et c'est sans étiquette : « trop d'envies » décrit un vécu, ce qui valide ta règle.
-**Pour toi** : c'est l'angle de la **n°06** (Einstein). Dis « trop d'idées » plutôt que « mille idées » : c'est la phrase que ta cible se répète.
-
-### 3. La confession miroir
-- « Je rêve en grand, mais je ne fais rien. Les neurosciences expliquant pourquoi… » — Olga Loiek · 3,6 M · 15x
-- « JE SUIS AMBITIEUX MAIS JE FAIS RIEN (les neurosciences derrière…) » — Robin Lebrun · 55 k · 19x (chaîne de 2 900 abonnés)
-
-**Pourquoi ça marche** : le spectateur lit sa propre pensée, à la première personne. La contradiction (« je rêve / je ne fais rien ») crée la tension.
-**Pour toi** : c'est ton cœur de cible mot pour mot. À garder pour un titre 💰.
-
-### 4. L'appel direct « Si tu… »
-- « Si tu veux réussir mais que tu es paresseux, s'il te plaît regarde cette vidéo ! » — le trèfle · 230 k · 30x
-- « Si tu réfléchis trop à tout, ce n'est pas ce que tu crois. » — Psychologie Décryptée · 124 k · 19x
-
-**Pourquoi ça marche** : le spectateur se trie tout seul. Celui qui se reconnaît se sent appelé par son prénom.
-**Pour toi** : bonne piste pour la **n°03** (« Si ta tête tourne en rond… »).
-
-### 5. Le feu vert
-- « You've consumed enough. It's time to start creating. » — Sam William · 517 k · 35x
-- « You've consumed enough. God wants you to start creating. » — Connor Woodman · 1,2 M · 17x (filmé dans les bois)
-- « the habit that FORCES your brain to STOP consuming » — Ashy · 750 k · 22x
-- « Create Something BEFORE You're Ready » — Create with Koko · 210 k · 9x
-
-**Pourquoi ça marche** : ta cible attend une permission plus qu'une méthode. Le titre la donne, sur un ton d'évidence.
-**Pour toi** : c'est ta conviction « on devient créateur en créant ». Aucune vidéo de ton plan ne l'exploite encore.
-
-### 6. Le maître créateur
-- « Rick Rubin partage ses secrets de créativité » — Glo · 3,1 M · **76x**
-- « Hayao Miyazaki's wisdom for stuck artists » — Adam Westbrook · 366 k · 13x
-
-**Pourquoi ça marche** : l'autorité empruntée. Un créateur admiré rend le conseil crédible et attire au-delà de ta niche.
-**Pour toi** : ton format « Que ferait… ? ». Rick Rubin et Miyazaki parlent plus aux créatifs qu'Einstein.
-
-### ⚠️ Le corps : un mot-clé qui cherche preneur
-- « 7 exercices efficaces pour renforcer le nerf vague et réduire le stress » — Gaëtan Klein · 953 k · 23x
-- « 5 Signs of Nervous System Healing (That Don't Feel Like Healing) » — Maggie Sterling · 2,4 M · 19x
-
-**Je te challenge** : ta règle interdit les mots techniques dans le titre. Pourtant « nerf vague » et « système nerveux » attirent beaucoup de recherches, et le corps, c'est **ta** différence. Pour une vidéo 🌍, une exception pourrait valoir le coup. Toujours sans promettre de guérir quoi que ce soit.
+**Comment lire « 80x »** : la vidéo a fait 80 fois plus de vues que **d'habitude pour sa chaîne** (la médiane de ses 30 dernières vidéos). Au-dessus de 5x, c'est une pépite : le titre et la miniature ont touché bien au-delà du public habituel.
+_Limites_ : je ne vois ni le taux de clics ni la rétention des autres. Et ne rien trouver ne prouve pas que rien n'existe.
 
 ---
 
-## Ce que montrent leurs miniatures (16 regardées)
+## Les 8 modèles français qui explosent
 
-- **Visage calme et sincère**, regard caméra. Presque aucune grimace : dans ce thème, la sincérité bat l'exagération.
-- **La nature en fond** chez 4 sur 16, dont la plus grosse pépite (9,5 M). Ton format de marche est un atout, pas un handicap.
-- **Le texte est une phrase courte**, comme une confession ou un verdict, souvent finie par un point : « Don't waste your life. », « I wasted years… », « they don't care. », « Start messy. »
-- **Au plus un mot en couleur** (souvent jaune), le reste en blanc.
-- « DEMAIN JE LE FERAI. » (le trèfle, 30x), c'est presque ta miniature n°01 « ENCORE DEMAIN… ». Bon signe.
-- « they don't care. » (unfiltered sonam, 25x) : un modèle pour la miniature de la **n°02**, version française « Ils s'en fichent. ».
+### 1. 🔥 Le scroll contre la création (la tendance du moment)
+- « J'AI ARRÊTÉ DE SCROLLER : voici ce que je fais à la place (tricot, levain, jardinage & culture) » — Made By Khani · 322 k vues · **80x**
+- « J'ai remplacé le doomscrolling par ces 20 activités » — Lalulice · 77 k · 75x
+- « 3 mois sans scroller : voici ce que ça a vraiment changé » — Gwenaelle · 90 k · 21x
+- « Arrête de scroller, viens on crée ! » — Adèle Graffet · 52 k · 6x
+
+**Pourquoi ça marche** : tout le monde culpabilise de scroller. La vidéo propose une sortie concrète et joyeuse.
+**Pour toi** : c'est ton message mot pour mot. Scroller, c'est consommer les créations des autres. Ton angle unique : le corps et la marche comme sortie. Aucune vidéo de ton plan ne le prend encore.
+
+### 2. Le test « J'ai arrêté / J'ai essayé pendant X jours »
+- « J'ai tenté de vivre de ma passion pendant 365 jours (et j'ai tout arrêté) » — Guillaume - Le Renard · 331 k · **141x**
+- « J'ai testé 16 habitudes pendant 30 jours, voici celles que je garderai » — Lalulice · 203 k · **197x**
+- « J'ai arrêté le sucre pendant 2 ans... voici ce que personne ne vous dit » — Anto-BM · 93 k · 78x
+
+**Pourquoi ça marche** : une vraie expérience vécue, une durée précise, une issue inconnue. La boucle ouverte parfaite.
+**Pour toi** : ton format « Mon élan », version expérience. Mais il faut **la vivre d'abord** : la vidéo doit tenir la promesse.
+
+### 3. Le corps qui parle
+- « RÉVEIL ENTRE 3H ET 5H DU MATIN : ce que votre CORPS essaie de vous DIRE » — Fabrice Ruiz · 840 k · **224x**
+- « Ton corps a un bouton "RESET" et voici comment l'utiliser. » — Respire avec Tom & Inga · 333 k · 24x (miniature : « NERF VAGUE »)
+
+**Pourquoi ça marche** : on prête au corps une intelligence, un message caché. Curiosité et soulagement : « ce n'est pas ma faute, c'est mon corps ».
+**Pour toi** : c'est **ta** différence, et la demande est forte. Garde le titre humain (« ce que ton corps essaie de te dire ») et mets le mot technique sur la miniature.
+⚠️ Beaucoup de ces vidéos promettent de guérir. Toi, jamais : ta règle tient.
+
+### 4. La confession miroir
+- « cette p*tain de flemme » — Jules Robert · 82 k · **154x** (chaîne de 6 000 abonnés)
+- « JE SUIS AMBITIEUX MAIS JE FAIS RIEN (les neurosciences derrière et comment s'en sortir) » — Robin Lebrun · 55 k · 46x (2 900 abonnés)
+- « JE RÊVE GRAND MAIS NE FAIS RIEN. La neuroscience derrière ça & comment changer » — Sirin GF · 107 k · 8x (il y a 12 jours : le modèle est chaud)
+- « Je ne me reconnaissais plus… Le vrai début de mon éveil spirituel » — Marion Sweet'ink · 54 k · **161x** (1 300 abonnés)
+
+**Pourquoi ça marche** : le spectateur lit sa propre pensée, dans ses mots à lui, même crus.
+**Pour toi** : ta voix naturelle. Le « je » qui avoue, puis le décodage par le corps.
+
+### 5. « La psychologie des personnes qui… »
+- « La psychologie des personnes qui aiment rester chez elles » — Instant Lucide · 465 k · **155x**
+- « La Psychologie des Personnes qui Parlent Toutes Seules » — Écho · 162 k · 81x
+
+**Pourquoi ça marche** : un miroir d'identité. On clique pour savoir si on en fait partie et pour se sentir compris.
+**Pour toi** : c'est **la** façon de parler des facettes du TDAH et des multipotentiels **sans étiquette** : « La psychologie des gens qui commencent tout et ne finissent rien ». La plupart de ces chaînes sont faites à l'IA (voix et dessins). Ton visage, en vrai, en nature, va ressortir.
+
+### 6. Le contre-pied en une phrase
+- « Le piège invisible de la trentaine. » — ELIE FILMS · 84 k · 60x
+- « Vivre de sa passion est une cage. » — ELIE FILMS · 35 k · 25x
+- « Les vérités qui piquent, mais qui vont te réveiller » — Life of Safia · 153 k · 34x
+- « Plus Tu Essaies, Plus Tu Échoues » — artduflow. · 46 k · 17x
+
+**Pourquoi ça marche** : une phrase courte, au ton d'évidence, qui contredit ce qu'on croit. Souvent finie par un point.
+**Pour toi** : ton format « Les fausses vérités ». Tes convictions tranchées sont déjà écrites comme ça.
+
+### 7. L'appel direct « Si tu…, regarde cette vidéo »
+- « Si tu penses mal manger, regarde cette vidéo » — Élan, par HugoDécrypte · 533 k · 30x
+- « J'ai 26 ans. Si tu as 18-24 ans, regarde cette vidéo s'il te plaît » — Grégoire Dossier · 276 k · 9x
+- « Ce que j'aurais aimé savoir dans ma vingtaine » — Dear Lindsay · 127 k · 30x
+
+**Pourquoi ça marche** : le spectateur se trie tout seul et se sent appelé.
+⚠️ Très utilisé en 2026 : ça marche encore, mais ça commence à sonner comme une formule. À garder pour une vidéo forte.
+
+### 8. L'absolution
+- « TU n'es PAS FLEMMARD(E), tu es en SOUS-DOPAMINE. » — Sirin GF · 66 k · 5x
+- « Comprendre l'IA en 20 minutes (tu n'es pas en retard) » — theyo · 309 k · 7x
+
+**Pourquoi ça marche** : on enlève la honte avant d'apporter la solution.
+**Pour toi** : c'est le titre de ta n°01. Et « tu n'es pas en retard » est parfait pour ta n°04 (IA).
+
+---
+
+## Tes angles, un par un
+
+- **Spiritualité** : très forte demande (62 pépites). Ce qui marche : la confession d'éveil (Marion Sweet'ink, 161x), le corps messager (Fabrice Ruiz, 224x), les synchronicités (Jamal Lazaar, 242 k · 244x, il y a 2 ans). Le piège : la plupart promettent de guérir ou citent Carl Jung avec une voix d'IA. Ta place : une spiritualité incarnée, par le corps et la marche, sans promesse miracle.
+- **Facettes du TDAH** : en France, ce qui explose porte l'étiquette. « 7 comportements qui montrent que vous avez un TDAH » (L'éveil du TDAH · 214 k · **89x**), « TDAH ? VOICI LA PREUVE. » en miniature. Ce sont des vidéos de « signes » : on clique pour se reconnaître.
+- **Multipotentiels** : **aucune pépite française** trouvée. En anglais, c'est un des sujets qui explosent le plus (« If you have too many interests… », 60x). C'est une place libre en France. Mot émergent : « quêtes secondaires » (Louie Media, 101 k, il y a 11 jours).
+- **Créateurs et artistes** : « Créer sans s'épuiser en 5 leçons | Hayao Miyazaki » (Medoni · 30 k · **102x**, chaîne de 1 100 abonnés). Les maîtres créateurs marchent, surtout liés à l'épuisement.
+- **Psychologie** : le format « La psychologie des personnes qui… » domine (voir modèle 5).
+
+**⚖️ Ta règle « pas d'étiquette »** : les chiffres montrent qu'elle te coûte des clics. « TDAH » attire. Mais elle te protège de deux choses :
+- une promesse de diagnostic que tu ne peux pas tenir ;
+- un public qui cherche de l'info santé, pas forcément des créatifs bloqués.
+
+Ma recommandation : garde-la, et vole la **structure** de ces vidéos sans le mot. « 7 comportements qui montrent que vous avez un TDAH » devient « 7 signes que ton cerveau est fait pour créer, pas pour se concentrer ».
+
+---
+
+## Ce que montrent leurs miniatures (27 regardées)
+
+Les 4 types qui reviennent :
+1. **La citation à la première personne** : « J'ai cru que je devenais folle » (visage caché dans les mains), « Je m'en fiche désormais. », « j'ai gâché ma Vingtaine ». La confession passe dans l'image.
+2. **Un seul mot géant** : « FLEMME », « NERF VAGUE », « EN RETARD », « LE VRAI PRIX ».
+3. **L'avant / après** : « JOUR 1 / JOUR 730 », « *Imagination* / *Action* ».
+4. **La pancarte écrite à la main** : « Tu n'as plus de temps à perdre » (Grégoire Dossier). Humaine, impossible à confondre avec de l'IA.
+
+Et toujours :
+- **Le texte complète le titre, il ne le répète pas** : titre « J'ai tenté de vivre de ma passion pendant 365 jours », miniature « Le prix du rêve. ».
+- **Le mot technique va sur la miniature, le ressenti dans le titre** : miniature « NERF VAGUE », titre « Ton corps a un bouton RESET ».
+- **Visages graves, doux ou cachés** dans les mains. Presque jamais de grimace.
+- **Police à empattements, style documentaire**, chez les créateurs les plus introspectifs.
+- « DEMAIN JE LE FERAI. » (le trèfle, chaîne française, 30 fois ses abonnés) : c'est presque ta miniature n°01 « ENCORE DEMAIN… ».
+
+---
+
+## Pour ton plan actuel
+
+- **n°01** (procrastination) : l'absolution « Ce n'est pas de la flemme » est validée (Sirin GF, Jules Robert à 154x). Miniature « ENCORE DEMAIN… » validée.
+- **n°02** (regard des autres) : confession de perte en miniature, façon « j'ai gâché ma Vingtaine » (34x) ou « J'ai arrêté de vivre pour les autres » (Après 30 ans by Hannah, 21x).
+- **n°04** (IA) : « tu n'es pas en retard » (theyo, 309 k). Ton format humain, filmé en marchant, est l'anti-IA par excellence.
+- **n°06** (Einstein, trop d'idées) : place libre en France sur les multipotentiels. Pense à « quêtes secondaires ».
+- **n°07** (le masque) : « Quitter le rôle de « bonne fille » pour enfin s'affirmer à 35 ans » (Après 30 ans by Hannah · 176 k · 21x). C'est ton sujet.
+
+---
+
+## Les chaînes françaises à suivre
+
+- **Adèle Graffet** : « Arrête de scroller, viens on crée ! » C'est ton message. À regarder de près.
+- **Robin Lebrun** (2 900 abonnés) : neurosciences et passage à l'action.
+- **Respire avec Tom & Inga** : le corps, la respiration, le nerf vague.
+- **ELIE FILMS** : contre-pieds sur la passion et la trentaine.
+- **Guillaume - Le Renard** : expériences vécues sur la passion.
+- **Marion Sweet'ink** : confession et éveil spirituel.
+- **Medoni** : Miyazaki et la création sans épuisement.
+- ⚠️ **Le Déclic par Alec Henry** (148 000 abonnés) : même mot que ta « Balade Déclic ». Pas grave, mais en recherche, on tombera sur lui.
+
+## En anglais, pas encore copié en France
+
+- « It took me 30+ years to realize what I'll tell you in 10 minutes... » — Maggie McCormack · 9,5 M vues · 37 fois ses abonnés, copié 5 fois aux États-Unis. Je n'ai trouvé aucune version française qui explose.
+- « If You Have Too Many Interests, You Are Probably Built For The 'M-Shaped' Future » — 60 fois ses abonnés. Même constat en France.
+
+Être le premier à adapter un modèle qui a fait ses preuves ailleurs, c'est un vrai avantage.
 
 ---
 
 ## 🎲 La banque d'idées (pour « Pas d'inspi »)
 
-Des idées neuves, qui ne doublonnent pas `videos.md`. Je t'en propose **une seule** à la fois. Quand tu en valides une, elle passe dans `videos.md` et sort d'ici.
+Des idées neuves, qui ne doublonnent pas `videos.md`. Je t'en propose **une seule** à la fois. Validée, elle passe dans `videos.md` et sort d'ici.
 
-- **A** · 🌍 · Anime · Les Créateurs · modèle 6 — Frida Kahlo : clouée au lit à 18 ans après un accident, elle se met à peindre. _(comble le format vide)_
-- **B** · 💰 · Frein · Les fausses vérités · modèle 5 — « Il faut encore te former avant de te lancer. » Faux : tu as assez appris, maintenant crée.
-- **C** · 🌍 · Frein · Que ferait… · modèle 6 — Que ferait Rick Rubin de ton projet qui dort ?
-- **D** · 💰 · Frein · Mon élan · corps — 3 signes que c'est ton corps qui te freine, pas ta tête.
-- **E** · 💰 · Anime · Mon élan · modèle 4 — Si tu as perdu ce qui t'anime, regarde cette vidéo.
-- **F** · 💰 · Peur · Les fausses vérités · modèle 2 — Tu ne te sens pas légitime ? C'est plutôt bon signe.
+- **A** · 🌍 · Anime · Les Créateurs — Frida Kahlo : clouée au lit à 18 ans après un accident, elle se met à peindre. _(comble ton format vide)_
+- **B** · 💰 · Frein · Mon élan · modèles 1 et 2 — 30 jours sans scroller le matin : ce que j'ai créé à la place. _(à vivre d'abord)_
+- **C** · 🌍 · Anime · Que ferait… — Que ferait Miyazaki de ton épuisement ?
+- **D** · 💰 · Frein · Mon élan · modèle 3 — Ce que ton corps essaie de te dire quand tu repousses ton projet.
+- **E** · 💰 · Frein · Mon élan · modèle 5 — La psychologie des gens qui commencent tout et ne finissent rien.
+- **F** · 💰 · Anime · Les fausses vérités · modèle 6 — « Trouve ta passion. » Mauvais conseil : la passion vient après l'action.
+- **G** · 💰 · Anime · Mon élan · modèle 4 — Mon éveil n'a pas commencé dans ma tête, mais en marchant. _(ton histoire vraie)_
+- **H** · 💰 · Peur · Les fausses vérités — Tu ne te sens pas légitime ? C'est plutôt bon signe.
+- **I** · 💰 · Frein · Mon élan · structure TDAH sans étiquette — 7 signes que ton cerveau est fait pour créer, pas pour se concentrer.

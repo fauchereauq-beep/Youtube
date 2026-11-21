@@ -1,76 +1,45 @@
 {
- "fr-FR,fr;q=0.9": [
-  "procrastination",
-  "arrêter de procrastiner",
-  "peur du regard des autres",
-  "peur de se lancer",
-  "trop d'idées je n'arrive pas à choisir",
-  "je ne finis jamais mes projets",
-  "manque de motivation",
-  "syndrome de l'imposteur",
-  "blocage créatif",
-  "oser créer",
-  "retrouver l'envie",
-  "perte de sens épuisement",
-  "trouver sa passion",
-  "trouver sa voie",
-  "je n'arrive pas à me lancer",
-  "croyances limitantes",
-  "peur de l'échec",
-  "sortir de sa zone de confort",
-  "être soi-même",
-  "marcher pour aller mieux",
-  "système nerveux",
-  "pourquoi je procrastine",
-  "s'ennuyer créativité",
-  "intuition écouter",
-  "l'IA va remplacer les artistes",
-  "Einstein créativité",
-  "tu n'es pas paresseux",
-  "je rêve en grand mais je ne fais rien",
-  "tu n'es pas paresseux",
-  "si tu es perdu regarde cette vidéo",
-  "trop de passions",
-  "multipotentiel",
-  "zèbre surdoué passer à l'action",
-  "hypersensible passer à l'action",
-  "arrêter de consommer commencer à créer",
-  "commencer avant d'être prêt",
-  "syndrome de la page blanche",
-  "j'ai arrêté de procrastiner",
-  "le vrai problème de la procrastination",
-  "pourquoi tu n'arrives pas à te lancer",
-  "personne ne te dit ça",
-  "nerf vague exercices",
-  "porter un masque au travail",
-  "burn-out retrouver le goût",
-  "s'autoriser à créer",
-  "peur d'être jugé",
-  "on ne trouve pas sa passion",
-  "la motivation est un mythe",
-  "ce que j'aurais aimé savoir à 20 ans",
-  "Miyazaki inspiration",
-  "Rick Rubin créativité",
-  "l'ennui rend créatif",
-  "arrêter de trop réfléchir",
-  "overthinking"
+ "Frein": [
+  "procrastination", "arrêter de procrastiner", "pourquoi je procrastine", "la flemme", "paresse", "je n'arrive pas à me motiver",
+  "manque de motivation", "discipline", "trop d'idées", "je ne finis jamais rien", "projets inachevés", "arrêter de se plaindre",
+  "croyances limitantes", "tu deviens ce que tu penses", "système nerveux", "mode survie stress", "dopamine",
+  "je suis ambitieux mais je fais rien", "je rêve en grand mais je ne fais rien", "trop réfléchir", "rumination",
+  "arrêter de scroller", "perdu dans ma vie", "perdu à 30 ans", "crise de la trentaine"
  ],
- "en-US,en;q=0.9": [
-  "why you procrastinate",
-  "you're not lazy",
-  "too many interests",
-  "creative block",
-  "fear of judgement",
-  "how to start creating",
-  "nervous system procrastination",
-  "why you can't finish projects",
-  "lost passion burnout",
-  "how to find what you love",
-  "if you have too many interests",
-  "give me minutes fear of judgement",
-  "start before you're ready",
-  "stop consuming start creating",
-  "it took me years to realize",
-  "why you can't start nervous system"
+ "Peur": [
+  "peur du regard des autres", "peur du jugement", "syndrome de l'imposteur", "légitimité", "peur de l'échec", "droit à l'erreur",
+  "perfectionnisme", "oser se lancer", "confiance en soi", "peur de se montrer", "se lancer sur youtube peur", "être soi-même",
+  "vouloir plaire à tout le monde", "vivre pour les autres"
+ ],
+ "Anime": [
+  "trouver sa passion", "trouver sa voie", "ikigai", "sens de la vie", "retrouver la joie", "j'ai perdu goût à tout", "burn-out",
+  "épuisement", "âme d'enfant", "l'ennui", "ne rien faire", "marcher", "marche en nature", "porter un masque",
+  "reconversion professionnelle", "quitter son travail", "vivre de sa passion", "changer de vie", "passer à l'action"
+ ],
+ "Créateurs et artistes": [
+  "créativité", "être créatif", "blocage créatif", "l'artiste en toi", "devenir artiste", "artiste de sa vie", "créer ce qui t'anime",
+  "art-thérapie", "pages du matin", "libérez votre créativité", "oser créer", "créer sans être prêt", "arrête de consommer crée",
+  "Miyazaki", "Frida Kahlo", "Van Gogh", "Picasso", "Léonard de Vinci", "Einstein", "Stromae", "histoire inspirante", "parti de rien",
+  "IA créativité", "l'IA va remplacer les artistes"
+ ],
+ "Psychologie": [
+  "psychologie", "la psychologie des personnes qui", "estime de soi", "hypersensible", "émotions", "anxiété au quotidien",
+  "cerveau créatif", "neurosciences motivation", "biais cognitif", "enfant intérieur"
+ ],
+ "Spiritualité": [
+  "éveil spirituel", "spiritualité", "intuition", "écouter son intuition", "mission de vie", "synchronicités", "lâcher prise",
+  "énergie créatrice", "méditation en marchant", "écouter son corps", "ce que ton corps essaie de te dire", "âme sœur de soi"
+ ],
+ "Facettes TDAH": [
+  "TDAH adulte", "TDAH créativité", "TDAH procrastination", "hyperfocus", "cerveau qui va trop vite", "je commence tout et ne finis rien",
+  "je m'ennuie vite", "dispersion", "besoin de nouveauté", "cerveau en ébullition", "hyperactivité mentale", "oublis et distraction"
+ ],
+ "Multipotentiel": [
+  "multipotentiel", "plusieurs passions", "touche-à-tout", "slasheur", "zèbre", "HPI adulte", "surdoué passer à l'action",
+  "trop de centres d'intérêt", "je n'arrive pas à choisir", "quêtes secondaires", "je change tout le temps de projet"
+ ],
+ "Modèles de titres": [
+  "j'ai mis 10 ans à comprendre", "il m'a fallu des années pour comprendre", "ce que j'aurais aimé savoir", "regarde cette vidéo",
+  "tu n'es pas paresseux", "personne ne te dira", "j'ai arrêté de", "j'ai testé pendant 30 jours", "tu n'es pas en retard"
  ]
 }

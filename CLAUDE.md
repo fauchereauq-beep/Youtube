@@ -50,8 +50,10 @@ Et ces leviers, repérés sur les vidéos qui explosent dans mon thème (exemple
 - **L'appel direct** : « Si tu… ». Le spectateur se trie lui-même : celui qui se reconnaît clique.
 - **La confession** : le « je » vulnérable (« Je rêve en grand mais je ne fais rien ») crée le miroir et la confiance.
 - **Le feu vert** : donner la permission (« Maintenant, crée. ») soulage plus qu'une méthode.
-- **L'autorité empruntée** : un créateur admiré (Rick Rubin, Miyazaki) rend le message crédible.
-- **La précision** : un chiffre exact (« 52 ans », « 58 secondes ») rend le titre crédible.
+- **Le miroir d'identité** : « La psychologie des gens qui… ». On clique pour savoir si on en fait partie. C'est la façon de parler des facettes du TDAH et des multipotentiels sans étiquette.
+- **Le corps messager** : « Ce que ton corps essaie de te dire ». On prête au corps un message caché. C'est ma différence.
+- **L'autorité empruntée** : un créateur admiré (Miyazaki, Frida Kahlo) rend le message crédible.
+- **La précision** : un chiffre exact (« 365 jours », « entre 3 h et 5 h du matin ») rend le titre crédible.
 
 Règles :
 - Environ 60 caractères maximum, les mots forts au début.
@@ -67,6 +69,7 @@ Règles :
 - **Quatre mots maximum**, jamais les mêmes que le titre : la miniature complète le titre.
 - Le texte sonne comme une confession ou un verdict (« Encore demain… », « Ils s'en fichent. »).
 - Texte en grosses lettres blanches avec un contour ou une ombre sombre, très lisible. Au plus un mot dans une couleur d'accent, toujours la même.
+- Les 4 types de miniatures qui marchent en France (exemples dans `inspiration.md`) : la citation à la première personne, un seul mot géant, l'avant / après, la pancarte écrite à la main.
 - Fond : la nature de ma marche, légèrement floutée.
 - Format **1280 × 720 px**, en PNG ou JPG, moins de 2 Mo.
 - Fabrique-la avec du code (Python et Pillow) à partir de ma photo, toujours avec `miniatures/fabrique.py`, pour garder le même style d'une vidéo à l'autre.
@@ -83,7 +86,7 @@ Tu raisonnes comme un stratège YouTube, pas comme un rédacteur. Si une idée e
 
 **Titres**
 - Les 40 premiers caractères doivent suffire : sur téléphone, la fin est souvent coupée.
-- Une seule question par titre. Pas de majuscules partout. Pas de mot technique (système nerveux, régulation) : il va dans la vidéo, pas dans le titre.
+- Une seule question par titre. Pas de majuscules partout. Pas de mot technique (système nerveux, régulation) dans le titre : il va dans la vidéo, ou sur la miniature (« NERF VAGUE »), où il intrigue.
 - Pour chaque titre proposé : nombre de caractères et levier utilisé.
 
 **Miniatures**
@@ -113,7 +116,7 @@ Je m'éparpille : une question à la fois, et ramène-moi à l'essentiel.
 Tu pioches **une seule** idée dans la banque de `inspiration.md` : celle qui comble le mieux ce qui manque au plan. Tu me la donnes en 3 lignes : le sujet, un titre provisoire, pourquoi elle. Si je dis oui, elle passe dans `videos.md` et sort de la banque. Si je dis non, tu me proposes la suivante. Banque vide : tu en crées de nouvelles à partir des modèles et de mes convictions.
 
 **« Veille »** (une fois par mois suffit)
-Tu lances `python3 outils/veille.py`, tu regardes les miniatures des meilleures pépites (`https://i.ytimg.com/vi/<id>/hqdefault.jpg`) et tu mets `inspiration.md` à jour : les nouveaux modèles, les chiffres, la banque d'idées.
+Tu lances `python3 outils/veille.py` (chaînes françaises seulement, environ 3 minutes), tu regardes les miniatures des meilleures pépites (`https://i.ytimg.com/vi/<id>/hqdefault.jpg`) et tu mets `inspiration.md` à jour : les nouveaux modèles, les chiffres, la banque d'idées.
 
 **« Titre n°X »**
 1. Tu relis les modèles de `inspiration.md`. Tu proposes 3 titres, dont au moins un inspiré d'un modèle qui a fait ses preuves, et tu en recommandes **un seul**, en 2 lignes.
@@ -134,6 +137,10 @@ Tu fais le diagnostic de la section 5 et tu notes tout dans `videos.md`.
 **À chaque fois** : tu mets à jour la ligne « Prochaine action » en haut de `videos.md`, puis tu enregistres (commit et push).
 
 ## 7. De quoi je parle
+
+**Mon fil conducteur** : « Crée ce qui t'anime ». Je parle des créateurs, des artistes, et de l'artiste qu'il y a en chacun de nous.
+
+**Mes angles** : la psychologie, la spiritualité (incarnée, par le corps et la marche), et les facettes du TDAH et des multipotentiels, que je vis moi-même. Ma chaîne ne parle pas *de* TDAH ni *de* multipotentiel, mais beaucoup de mes sujets en viennent. Ce sont des sujets, pas des étiquettes : je décris le vécu (« je commence tout et je ne finis rien ») sans jamais nommer le trouble dans le titre.
 
 Trois piliers. Un sujet qui n'entre dans aucun ne devient pas une vidéo.
 
