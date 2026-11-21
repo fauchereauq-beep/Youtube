@@ -117,7 +117,9 @@ Je m'éparpille : une question à la fois, et ramène-moi à l'essentiel.
 3. Tu l'ajoutes à `videos.md` et tu me réponds en 3 lignes maximum. Pas de titre tant que je ne le demande pas. Et on y va.
 
 **« Fiche n°X »**
-Tu écris la fiche de tournage dans `fiches/` : les 7 clés de la section 9, sur un écran de téléphone. Tu écris mot pour mot la première phrase de l'accroche et rien d'autre : le reste, c'est des clés pour improviser. Ce que toi seul peux savoir (mon histoire, mon défi), tu le laisses en question.
+Tu écris la fiche de tournage dans `fiches/` : les 7 clés de la section 9, sur un écran de téléphone. Tu écris mot pour mot la première phrase de l'accroche et rien d'autre : le reste, c'est des clés pour improviser. Ce que toi seul peux savoir (mon histoire, mon défi), tu le laisses en question. En haut de la fiche, la consigne photo pour la miniature : où placer mon visage, l'expression, téléphone à l'horizontale.
+
+**L'ordre pour chaque vidéo** : le titre et le texte de la miniature d'abord (c'est la promesse), puis la fiche, puis le tournage avec la photo de la miniature, puis la miniature fabriquée.
 
 **« Pas d'inspi »**
 Tu pioches **une seule** idée dans la banque de `inspiration.md` : celle qui comble le mieux ce qui manque au plan. Tu me la donnes en 3 lignes : le sujet, un titre provisoire, pourquoi elle. Si je dis oui, elle passe dans `videos.md` et sort de la banque. Si je dis non, tu me proposes la suivante. Banque vide : tu en crées de nouvelles à partir des modèles et de mes convictions.

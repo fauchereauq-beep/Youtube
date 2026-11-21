@@ -5,6 +5,14 @@
 **Météo du jour** : ⛈️ orage → 🌫️ brouillard · **Métaphore** : le frein à main
 **Durée visée** : 10 minutes · 7 clés = 7 lieux
 
+**📱 Téléphone à l'horizontale**, pour la vidéo comme pour la photo.
+
+**📸 Photo pour la miniature** (sur place, au lieu de l'accroche)
+- Ton visage sur le tiers gauche de l'image, la nature derrière toi.
+- La droite reste vide : c'est la place du texte « ENCORE DEMAIN… ».
+- Expression : coupable et amusé, comme pris en flagrant délit. Regard caméra.
+- 4 ou 5 photos, puis tu me les envoies.
+
 ---
 
 **1. 📍 L'accroche** (30 s, la seule phrase écrite)
