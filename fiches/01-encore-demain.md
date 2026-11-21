@@ -21,7 +21,7 @@
 
 **4. 📍 Le schéma** (3 min)
 - Plus un projet compte, plus ton corps le voit comme un danger : « Et si j'échouais sur ce qui compte le plus ? »
-- ⛈️ Orage : il serre le frein à main.
+- ⛈️ Orage : le détecteur de fumée sonne. Pour te protéger, ton corps serre le frein à main.
 - Toi, tu appuies sur l'accélérateur : volonté, culpabilité, « faut que je m'y mette ». Le moteur hurle, rien n'avance.
 - À force, 🌫️ brouillard : tu n'as même plus envie. C'est là qu'on se croit flemmard.
 - 🔁 Relance : « Tu sais où il est, toi, ton frein à main ? Je te montre juste après. »
