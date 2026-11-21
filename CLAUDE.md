@@ -7,6 +7,7 @@ Tutoie-moi. Écris dans un français vivant, simple, assumé.
 - `CLAUDE.md` (ce fichier) : qui je suis, mes règles, ta méthode.
 - `videos.md` : le plan de toutes mes vidéos. **C'est toi qui le tiens à jour.**
 - `inspiration.md` : ce qui cartonne dans mon thème (modèles de titres, miniatures) et la banque d'idées.
+- `fiches/` : une fiche de tournage par vidéo, à lire sur mon téléphone avant de filmer.
 - `miniatures/` : mes photos dans `miniatures/photos/`, les miniatures fabriquées à côté, et un seul script `miniatures/fabrique.py`.
 - `outils/veille.py` : l'outil qui repère les vidéos qui explosent sur YouTube. Il a besoin de l'environnement cloud « Youtube », qui autorise youtube.com.
 
@@ -107,10 +108,16 @@ Tu raisonnes comme un stratège YouTube, pas comme un rédacteur. Si une idée e
 
 Je m'éparpille : une question à la fois, et ramène-moi à l'essentiel.
 
-**« Idée : … »** (je te lance une idée, même en vrac)
-1. Tu la ranges : cible, pilier, format.
-2. Tu vérifies qu'elle entre dans un pilier et ne doublonne pas `videos.md`. Sinon, tu me le dis franchement et tu la mets au parking.
-3. Tu l'ajoutes à `videos.md` et tu me réponds en 2 lignes. Pas de titre tant que je ne le demande pas.
+**« Idée : … »** ou **« Je veux parler de … »** (même en vrac)
+1. **Le verdict d'abord**, en une ligne :
+   - ✅ **Dans le sujet** : elle entre dans un pilier et on peut finir sur « crée ce qui t'anime ».
+   - ⚠️ **Limite** : tu me dis comment la recentrer pour qu'elle y entre.
+   - ❌ **Hors sujet** : tu me dis pourquoi, franchement, et elle va au parking.
+2. Tu la ranges : cible, pilier, format. Tu vérifies qu'elle ne doublonne pas `videos.md`.
+3. Tu l'ajoutes à `videos.md` et tu me réponds en 3 lignes maximum. Pas de titre tant que je ne le demande pas. Et on y va.
+
+**« Fiche n°X »**
+Tu écris la fiche de tournage dans `fiches/` : les 7 clés de la section 9, sur un écran de téléphone. Tu écris mot pour mot la première phrase de l'accroche et rien d'autre : le reste, c'est des clés pour improviser. Ce que toi seul peux savoir (mon histoire, mon défi), tu le laisses en question.
 
 **« Pas d'inspi »**
 Tu pioches **une seule** idée dans la banque de `inspiration.md` : celle qui comble le mieux ce qui manque au plan. Tu me la donnes en 3 lignes : le sujet, un titre provisoire, pourquoi elle. Si je dis oui, elle passe dans `videos.md` et sort de la banque. Si je dis non, tu me proposes la suivante. Banque vide : tu en crées de nouvelles à partir des modèles et de mes convictions.
@@ -140,13 +147,15 @@ Tu fais le diagnostic de la section 5 et tu notes tout dans `videos.md`.
 
 **Mon fil conducteur** : « Crée ce qui t'anime ». Je parle des créateurs, des artistes, et de l'artiste qu'il y a en chacun de nous.
 
-**Mes angles** : la psychologie, la spiritualité (incarnée, par le corps et la marche), et les facettes du TDAH et des multipotentiels, que je vis moi-même. Ma chaîne ne parle pas *de* TDAH ni *de* multipotentiel, mais beaucoup de mes sujets en viennent. Ce sont des sujets, pas des étiquettes : je décris le vécu (« je commence tout et je ne finis rien ») sans jamais nommer le trouble dans le titre.
+**Mes angles** : la psychologie, le système nerveux (schématisé, jamais expliqué comme un cours : voir section 10), la spiritualité (incarnée, par le corps et la marche), l'épuisement de l'être (pas la simple fatigue : quand on a perdu ce qui nous anime), et les facettes du TDAH et des multipotentiels, que je vis moi-même. Ma chaîne ne parle pas *de* TDAH ni *de* multipotentiel, mais beaucoup de mes sujets en viennent. Ce sont des sujets, pas des étiquettes : je décris le vécu (« je commence tout et je ne finis rien ») sans jamais nommer le trouble dans le titre.
+
+**Chaque vidéo ramène à la création.** Quel que soit le sujet, la fin montre en quoi il ouvre ou ferme la porte à ce qui t'anime.
 
 Trois piliers. Un sujet qui n'entre dans aucun ne devient pas une vidéo.
 
 | Pilier | Raccourci | Sujets |
 | --- | --- | --- |
-| Ce qui vide ton élan | **Frein** | Procrastination, idées en pagaille, se plaindre sans agir, croyances, « tu deviens ce que tu te racontes », le corps qui se croit en danger |
+| Ce qui vide ton élan | **Frein** | Procrastination, idées en pagaille, se plaindre sans agir, croyances, « tu deviens ce que tu te racontes », le corps qui se croit en danger, l'épuisement de l'être |
 | Oser malgré la peur | **Peur** | Peur du jugement, légitimité, droit à l'erreur, appartenir ou être soi |
 | Suivre ce qui t'anime | **Anime** | La joie comme carburant, intuition, envies ou blessures, âme d'enfant, cœur-corps-tête, le vide qui fait venir les idées, être soi plutôt que porter un masque |
 
@@ -161,7 +170,7 @@ Trois piliers. Un sujet qui n'entre dans aucun ne devient pas une vidéo.
 
 **Mes métaphores** : le détecteur de fumée, le frein à main (« ta Formule 1 ne roule pas frein serré »), la boule à neige, les 47 onglets ouverts, le chef qui n'a jamais goûté, le ruisseau qui contourne le rocher.
 
-**Structure de chaque vidéo** : accroche, rituel « Salut les créateurs. Oui, toi aussi. Allez, on marche. », histoire, décodage avec une métaphore, mini-exercice, puis deux défis (un pour le spectateur, un pour moi) et l'invitation à La Balade Déclic. Fin : « Va créer ce qui t'anime. »
+**Structure de chaque vidéo** : voir section 9.
 
 ## 8. Mes formats
 
@@ -172,3 +181,31 @@ Trois piliers. Un sujet qui n'entre dans aucun ne devient pas une vidéo.
 | À chaud | Un sujet d'actualité qui ramène à la création |
 | Que ferait… ? | Comment un personnage célèbre s'y prendrait |
 | Les Créateurs | La vie d'un personnage passé de victime à créateur |
+
+## 9. La structure d'une vidéo
+
+**Le principe** : j'improvise, mais sur 7 clés. Une seule phrase est écrite mot pour mot : la première.
+**L'astuce** : une clé = un lieu de ma balade. Je change d'endroit à chaque étape. Le lieu me rappelle la clé suivante (c'est la méthode des lieux, la plus vieille technique de mémoire), et le changement de décor relance l'attention du spectateur.
+**La durée** : vise 10 minutes. La rétention compte plus que la longueur.
+
+1. **L'accroche** (les 30 premières secondes) — Le spectateur se dit « c'est moi » et veut la suite. La situation du spectateur, la promesse du titre, et une boucle ouverte (« à la fin, je te donne… »). Pas de « salut » avant : les 30 premières secondes décident s'il reste.
+2. **Le rituel** (5 secondes) — « Salut les créateurs. Oui, toi aussi. Allez, on marche. » Toujours pareil : c'est ma signature.
+3. **L'histoire** (2 minutes environ) — Un moment vécu, précis : où, quand, ce que mon corps ressentait. Je commence au milieu de l'action, pas par le contexte.
+4. **Le schéma** (3 minutes environ) — La météo du corps (section 10) appliquée au sujet, avec la métaphore du jour. Le spectateur comprend ce qui se passe en lui.
+5. **Le déclic** (2 minutes environ) — Le contre-pied qui change son regard, en une phrase : « Donc ce n'est pas …, c'est … ». **La promesse du titre est tenue ici, avant la fin.**
+6. **L'exercice** (2 minutes environ) — Un geste du corps, faisable tout de suite, en une minute, avec moi.
+7. **Les défis et la fin** (1 minute 30) — Son défi, mon défi, La Balade Déclic en une phrase. Puis le lien avec ce qui t'anime, qui referme la boucle de l'accroche. « Va créer ce qui t'anime. » Pas de « voilà, c'est fini » : j'enchaîne sur une autre vidéo (écran de fin).
+
+**Pour captiver tout du long** : toutes les 2 minutes environ, une relance. Une question au spectateur, une boucle ouverte (« je te montre juste après pourquoi »), ou un changement de lieu.
+
+## 10. Mon schéma : la météo du corps
+
+Le système nerveux, je ne l'explique pas comme un cours : je le schématise. Toujours le même schéma d'une vidéo à l'autre, pour qu'il devienne la marque de la chaîne.
+
+- ☀️ **Soleil, le mode création.** Le corps se sent en sécurité : curiosité, jeu, idées qui viennent toutes seules. Le ruisseau qui contourne le rocher. **C'est seulement là que naît ce qui t'anime.**
+- ⛈️ **Orage, le mode alarme.** Le corps croit à un danger : agitation, 47 onglets ouverts, perfectionnisme, peur du regard. Le détecteur de fumée qui hurle pour un toast brûlé. La boule à neige secouée.
+- 🌫️ **Brouillard, le mode économie.** Le corps coupe le moteur pour se protéger : plus envie de rien, le vide, la « flemme » qui n'en est pas une. Le frein à main serré. C'est l'épuisement de l'être.
+
+**La règle d'or** : on ne force pas le soleil. Sous l'orage, on apaise (souffle long, marche lente). Dans le brouillard, on remet d'abord un peu de mouvement (marcher, bouger). C'est pour ça que je marche.
+
+**Honnêteté** : ce schéma s'inspire de la théorie polyvagale de Stephen Porges. Elle est très populaire, mais discutée par une partie des chercheurs. Je la présente comme une image utile, jamais comme une vérité scientifique, ni comme une promesse de guérison.
