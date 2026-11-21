@@ -2,7 +2,7 @@
 
 **3 combinaisons à tester** (titre + miniature)
 - **A** ⭐ : Tu n'es pas flemmard, ton corps te protège · « ENCORE DEMAIN… »
-- **B** : J'ai repoussé mon projet 7 ans. Ce n'était pas de la flemme. · « J'avais honte. »
+- **B** : J'ai repoussé mon projet X ans. Ce n'était pas de la flemme. · « J'avais honte. » _(X = ton vrai nombre d'années. Pas de vrai chiffre ? On garde A et C.)_
 - **C** : Ce que ton corps te dit quand tu remets à demain · pancarte « Lundi, promis. »
 **Météo du jour** : ⛈️ orage → 🌫️ brouillard · **Métaphore** : le frein à main
 **Durée visée** : 10 minutes · 7 clés = 7 lieux

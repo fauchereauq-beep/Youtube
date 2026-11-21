@@ -1,6 +1,6 @@
 # Mes vidéos
 
-> **👉 Prochaine action : tourner la n°01 avec sa fiche** (`fiches/01-encore-demain.md`). Juste l'accroche et le rituel pour commencer, en marchant. Pas besoin que ce soit bien.
+> **👉 Prochaine action : demain, tourner les n°01, 02 et 04** avec leurs fiches, dans cet ordre. Une vidéo finie vaut mieux que trois à moitié.
 
 **Repères** — Cible : 🌍 Large · 💰 Client — Piliers : Frein · Peur · Anime (voir `CLAUDE.md`)
 **Statuts** : 💡 Idée → ✏️ Titre validé → 🎬 Tournée → ✅ Publiée
@@ -30,17 +30,31 @@ _Rien pour l'instant._
 - Sujet : je procrastine sur ce qui me tient le plus à cœur
 - **3 combinaisons à tester** (proposées, à valider) :
   - **A, absolution** ⭐ départ : **Tu n'es pas flemmard, ton corps te protège** (42 car.) + « ENCORE DEMAIN… » · visage coupable et amusé
-  - **B, confession** : **J'ai repoussé mon projet 7 ans. Ce n'était pas de la flemme.** (60 car., ton vrai chiffre à confirmer) + « J'avais honte. » · visage grave
+  - **B, confession** : **J'ai repoussé mon projet X ans. Ce n'était pas de la flemme.** (60 car., X = ton vrai chiffre) + « J'avais honte. » · visage grave
   - **C, corps messager** : **Ce que ton corps te dit quand tu remets à demain** (48 car.) + pancarte écrite à la main « Lundi, promis. » · demi-sourire
 - Ancien titre : « Ton projet attend depuis des années ? Ce n'est pas de la flemme. » (64 car., l'absolution tombait dans la partie coupée sur téléphone)
 - Fiche de tournage : `fiches/01-encore-demain.md`
+
+**02** · 💰 · Peur · Mon élan
+- Sujet : la peur du regard des autres m'a volé des années
+- **3 combinaisons à tester** (proposées, à valider) :
+  - **A, confession** ⭐ départ : **La peur du regard des autres m'a volé des années** (48 car.) + « Ils s'en fichent. » · demi-sourire de quelqu'un qui a compris
+  - **B, contre-pied chiffré** : **Les gens te remarquent 2 fois moins que tu le crois** (51 car.) + « EFFET PROJECTEUR » · ébloui
+  - **C, corps messager** : **Pourquoi ton corps panique quand on te regarde** (46 car.) + pancarte « Et s'ils me jugent ? » · un peu inquiet
+- Fiche de tournage : `fiches/02-ils-s-en-fichent.md`
+
+**04** · 🌍 · Peur · À chaud
+- Sujet : l'IA va remplacer les créateurs ? Seulement ceux qui ne créent pas
+- **3 combinaisons à tester** (proposées, à valider) :
+  - **A, contre-pied** ⭐ départ : **L'IA va te remplacer ? Seulement si tu ne crées pas** (51 car.) + « Pas toi. » · calme et sûr
+  - **B, absolution** : **IA : pourquoi tu n'es pas en retard pour créer** (46 car.) + « À quoi bon ? » · las
+  - **C, boucle ouverte** : **L'IA sait tout faire, sauf une chose** (36 car.) + « 100 % humain. » et tes 3 cailloux empilés · fier
+- Fiche de tournage : `fiches/04-pas-toi.md`
 
 ## 💡 Idées
 
 Dans l'ordre de publication prévu.
 
-- **02** · 💰 · Peur · Mon élan — La peur du regard des autres m'a volé des années
-- **04** · 🌍 · Peur · À chaud — L'IA va remplacer les créateurs ? Seulement ceux qui ne créent pas.
 - **03** · 💰 · Anime · Mon élan ? — Ta tête tourne en rond ? Va faire de la poterie.
 - **05** · 💰 · Frein · Fausses vérités — Il faut de la motivation pour agir ? Faux.
 - **06** · 🌍 · Frein · Que ferait… — Que ferait Einstein de tes mille idées ?
