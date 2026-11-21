@@ -123,7 +123,7 @@ Je m'éparpille : une question à la fois, et ramène-moi à l'essentiel.
 3. Tu l'ajoutes à `videos.md` et tu me réponds en 3 lignes maximum. Pas de titre tant que je ne le demande pas. Et on y va.
 
 **« Fiche n°X »**
-Tu écris la fiche de tournage dans `fiches/` : les 7 clés de la section 9, sur un écran de téléphone. Tu écris mot pour mot la première phrase de l'accroche et rien d'autre : le reste, c'est des clés pour improviser. Ce que toi seul peux savoir (mon histoire, mon défi), tu le laisses en question. En haut de la fiche, la consigne photo pour la miniature : où placer mon visage, l'expression, téléphone à l'horizontale.
+Tu écris la fiche de tournage dans `fiches/` : la structure de la section 9 qui correspond au format de la vidéo, sur un écran de téléphone. Tu écris mot pour mot la première phrase de l'accroche et rien d'autre : le reste, c'est des clés pour improviser. Ce que toi seul peux savoir (mon histoire, mon défi), tu le laisses en question. En haut de la fiche, la consigne photo pour la miniature : où placer mon visage, l'expression, téléphone à l'horizontale.
 
 **L'ordre pour chaque vidéo** : le titre et le texte de la miniature d'abord (c'est la promesse), puis la fiche, puis le tournage avec la photo de la miniature, puis la miniature fabriquée.
 
@@ -192,21 +192,60 @@ Trois piliers. Un sujet qui n'entre dans aucun ne devient pas une vidéo.
 | Que ferait… ? | Comment un personnage célèbre s'y prendrait |
 | Les Créateurs | La vie d'un personnage passé de victime à créateur |
 
-## 9. La structure d'une vidéo
+## 9. Les structures de mes vidéos
 
-**Le principe** : j'improvise, mais sur 7 clés. Une seule phrase est écrite mot pour mot : la première.
+**À chaque format sa structure** :
+- « Mon élan » et « Les Créateurs » → **Le Récit**
+- « Les fausses vérités » et « À chaud » → **Le Débat**
+- « Que ferait… ? » et les vidéos pratiques → **Les Pas**
+
+**Le principe** : j'improvise sur des clés. Une seule phrase est écrite mot pour mot : la première.
 **L'astuce** : une clé = un lieu de ma balade. Je change d'endroit à chaque étape. Le lieu me rappelle la clé suivante (c'est la méthode des lieux, la plus vieille technique de mémoire), et le changement de décor relance l'attention du spectateur.
 **La durée** : vise 10 minutes. La rétention compte plus que la longueur.
 
-1. **L'accroche** (les 30 premières secondes) — Le spectateur se dit « c'est moi » et veut la suite. La situation du spectateur, la promesse du titre, et une boucle ouverte (« à la fin, je te donne… »). Pas de « salut » avant : les 30 premières secondes décident s'il reste.
-2. **Le rituel** (5 secondes) — « Salut les créateurs. Oui, toi aussi. Allez, on marche. » Toujours pareil : c'est ma signature.
-3. **L'histoire** (2 minutes environ) — Un moment vécu, précis : où, quand, ce que mon corps ressentait. Je commence au milieu de l'action, pas par le contexte.
-4. **Le schéma** (3 minutes environ) — La météo du corps (section 10) appliquée au sujet, avec la métaphore du jour. Le spectateur comprend ce qui se passe en lui.
-5. **Le déclic** (2 minutes environ) — Le contre-pied qui change son regard, en une phrase : « Donc ce n'est pas …, c'est … ». **La promesse du titre est tenue ici, avant la fin.**
-6. **L'exercice** (2 minutes environ) — Un geste du corps, faisable tout de suite, en une minute, avec moi.
-7. **Les défis et la fin** (1 minute 30) — Son défi, mon défi, La Balade Déclic en une phrase. Puis le lien avec ce qui t'anime, qui referme la boucle de l'accroche. « Va créer ce qui t'anime. » Pas de « voilà, c'est fini » : j'enchaîne sur une autre vidéo (écran de fin).
+**Dans toutes les vidéos, quelle que soit la structure** :
+- **L'accroche tient en 15 secondes** et porte la promesse du titre. Pas de « salut » avant.
+- **Le rituel juste après** : « Salut les créateurs. Oui, toi aussi. Allez, on marche. » (5 secondes)
+- **La météo du corps** (section 10) passe au moins une fois : c'est ma signature.
+- **Un geste du corps**, à faire tout de suite avec moi : c'est ma différence.
+- **Une relance toutes les 2 minutes environ** : une question, une boucle ouverte (« je te montre juste après »), un changement de lieu.
+- **La fin ramène à ce qui t'anime**, puis La Balade Déclic en une phrase, puis « Va créer ce qui t'anime. » Pas de « voilà, c'est fini » : j'enchaîne sur une autre vidéo (écran de fin).
 
-**Pour captiver tout du long** : toutes les 2 minutes environ, une relance. Une question au spectateur, une boucle ouverte (« je te montre juste après pourquoi »), ou un changement de lieu.
+### Le Récit · « Mon élan », « Les Créateurs »
+
+1. **Le moment le plus tendu** (0-15 s) — On entre au pire moment : « Ce jour-là, j'étais à deux doigts de tout lâcher. » Puis une phrase de promesse : « Ce qui m'a sorti de là, je te le donne dans cette vidéo. »
+2. **Le rituel** (5 s)
+3. **Le retour en arrière** (1 min) — Le contexte, juste ce qu'il faut pour comprendre.
+4. **Le blocage** (2 min) — Ce qui coinçait, vu avec la météo du corps et la métaphore du jour.
+5. **Le déclic** (2 min) — Ce qui a changé. La promesse du titre est tenue ici.
+6. **La leçon** (15 s) — En une phrase : « Donc ce n'est pas …, c'est … »
+7. **Pour toi** (2 min) — Le geste du corps, à faire maintenant avec moi.
+8. **Les défis et la fin** (1 min 30) — Son défi, mon défi, La Balade Déclic, « Va créer ce qui t'anime. »
+
+Pour « Les Créateurs », c'est l'histoire du personnage, et « Pour toi » fait le pont avec la vie du spectateur.
+
+### Le Débat · « Les fausses vérités », « À chaud »
+
+1. **La question** (0-10 s) — « Faut-il toujours être positif ? »
+2. **Ma réponse cash** (10-20 s) — « Pour moi, non. Et je vais te montrer pourquoi. »
+3. **Le rituel** (5 s)
+4. **L'avis inverse** (1 min) — Pourquoi les gens pensent le contraire, présenté honnêtement. Ça me rend crédible.
+5. **Mon vécu** (2 min) — L'histoire qui a forgé mon avis.
+6. **2 ou 3 arguments, pas plus** (3 min) — Le premier passe par la météo du corps.
+7. **La nuance** (1 min) — « Mais attention… » La limite de mon avis.
+8. **Ce que tu peux en faire** (1 min) — Le geste du corps, et une action pour aujourd'hui.
+9. **La fin** (1 min) — « Et toi, t'en penses quoi ? Dis-le-moi en commentaire. » Puis le lien avec ce qui t'anime, La Balade Déclic, « Va créer ce qui t'anime. »
+
+### Les Pas · « Que ferait… ? », vidéos pratiques
+
+1. **L'accroche avec preuve** (0-15 s) — Le problème et ma preuve perso : « Ça fait 6 mois que je repousse cette vidéo. » Seulement si c'est vrai.
+2. **La promesse** (15-30 s) — « Je te donne 4 petits pas. Et à la fin, un bonus que presque personne n'applique. »
+3. **Le rituel** (5 s)
+4. **Les pas** (1 min 30 chacun) — Pour chaque pas : la règle en une phrase, un exemple perso, une action à faire aujourd'hui. **3 à 5 pas, pas plus, du plus simple au plus fort.** Au milieu : « On approche du bonus, reste. »
+5. **Le bonus** (1 min 30) — Mon meilleur conseil, et il doit vraiment l'être : c'est le geste du corps, ma différence. Un bonus décevant, c'est un spectateur qui ne revient pas.
+6. **La fin** (1 min) — Le résumé en une phrase, La Balade Déclic, « Va créer ce qui t'anime. »
+
+Pour « Que ferait… ? », les pas sont les règles du personnage (« Les 4 règles de Miyazaki pour créer sans s'épuiser »).
 
 ## 10. Mon schéma : la météo du corps
 

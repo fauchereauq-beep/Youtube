@@ -5,7 +5,7 @@
 - **B** : J'ai repoussé mon projet X ans. Ce n'était pas de la flemme. · « J'avais honte. » _(X = ton vrai nombre d'années. Pas de vrai chiffre ? On garde A et C.)_
 - **C** : Ce que ton corps te dit quand tu remets à demain · pancarte « Lundi, promis. »
 **Météo du jour** : ⛈️ orage → 🌫️ brouillard · **Métaphore** : le frein à main
-**Durée visée** : 10 minutes · 7 clés = 7 lieux
+**Structure** : Le Récit · **Durée visée** : 10 minutes · 7 clés = 7 lieux
 
 **📱 Téléphone à l'horizontale**, pour la vidéo comme pour la photo.
 
@@ -20,6 +20,9 @@
 
 **1. 📍 L'accroche** (30 s, la seule phrase écrite)
 > « Ce projet qui compte le plus pour toi, tu le repousses depuis des mois. Peut-être des années. Et tu te dis que t'es flemmard. C'est faux. C'est ton corps qui serre le frein à main. Et à la fin, je te donne un geste d'une minute pour le desserrer. »
+
+**Variante plus forte, seulement si c'est vrai** : commence par ta preuve perso.
+> « Cette vidéo, ça fait 6 mois que je la repousse. Et non, ce n'était pas de la flemme… »
 
 **2. 📍 Le rituel** (5 s)
 « Salut les créateurs. Oui, toi aussi. Allez, on marche. »

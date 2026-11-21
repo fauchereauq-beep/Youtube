@@ -6,7 +6,7 @@
 - **C** : Pourquoi ton corps panique quand on te regarde · pancarte « Et s'ils me jugent ? »
 
 **Météo du jour** : ⛈️ orage · **Métaphore** : le détecteur de fumée
-**Durée visée** : 10 minutes · 7 clés = 7 lieux
+**Structure** : Le Récit · **Durée visée** : 10 minutes · 7 clés = 7 lieux
 
 **📱 Téléphone à l'horizontale**, pour la vidéo comme pour la photo.
 
