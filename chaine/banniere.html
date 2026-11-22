@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Bannière chaîne</title>
+<style>
+  /* Bannière YouTube : 2560 × 1440. Zone visible partout (téléphone) : 1546 × 423 au centre. */
+  :root { --accent: #FFC23D; }
+  html, body { margin: 0; width: 2560px; height: 1440px; overflow: hidden; background: #0f1d24; }
+  svg { position: absolute; inset: 0; }
+  .texte {
+    position: absolute; left: 507px; top: 508px; width: 1546px; height: 423px;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    font-family: 'Inter Display', 'Inter', sans-serif; color: #fff; text-align: center;
+  }
+  h1 {
+    margin: 0; font-weight: 900; font-size: 136px; line-height: 1; letter-spacing: -2px; white-space: nowrap;
+    text-transform: uppercase;
+    text-shadow: 0 4px 0 rgba(0,0,0,.35), 0 10px 40px rgba(0,0,0,.55);
+  }
+  h1 span { color: var(--accent); }
+  .sous {
+    margin-top: 30px; font-weight: 700; font-size: 70px; line-height: 1.1;
+    text-shadow: 0 3px 18px rgba(0,0,0,.7);
+  }
+  .rythme {
+    margin-top: 24px; font-weight: 600; font-size: 48px; letter-spacing: .5px;
+    color: rgba(255,255,255,.92); text-shadow: 0 2px 12px rgba(0,0,0,.8);
+  }
+</style>
+</head>
+<body>
+<svg id="paysage" width="2560" height="1440" viewBox="0 0 2560 1440"></svg>
+<div class="texte">
+  <h1>Crée ce qui <span>t'anime</span></h1>
+  <div class="sous">Apaise ton corps. Ose créer.</div>
+  <div class="rythme">Une vidéo chaque semaine, en marchant dans la nature</div>
+</div>
+<script>
+  // Paysage dessiné par code : ciel d'aube, soleil derrière le texte, crêtes du Salève en couches, brume.
+  const W = 2560, H = 1440, NS = 'http://www.w3.org/2000/svg';
+  const svg = document.getElementById('paysage');
+  let seed = 7;
+  const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+
+  svg.innerHTML = `
+    <defs>
+      <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#14262f"/>
+        <stop offset=".45" stop-color="#2c4a52"/>
+        <stop offset=".62" stop-color="#7c7a63"/>
+        <stop offset=".72" stop-color="#b48a55"/>
+        <stop offset="1" stop-color="#3a3f36"/>
+      </linearGradient>
+      <radialGradient id="soleil" cx="1280" cy="860" r="900" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#ffd27a" stop-opacity=".55"/>
+        <stop offset=".25" stop-color="#f2b25c" stop-opacity=".28"/>
+        <stop offset="1" stop-color="#f2b25c" stop-opacity="0"/>
+      </radialGradient>
+      <radialGradient id="ombre" cx="1280" cy="720" r="820" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#0b1418" stop-opacity=".42"/>
+        <stop offset="1" stop-color="#0b1418" stop-opacity="0"/>
+      </radialGradient>
+      <linearGradient id="brume" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#c9c3a8" stop-opacity="0"/>
+        <stop offset=".5" stop-color="#c9c3a8" stop-opacity=".22"/>
+        <stop offset="1" stop-color="#c9c3a8" stop-opacity="0"/>
+      </linearGradient>
+      <filter id="flou" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="3"/></filter>
+    </defs>
+    <rect width="${W}" height="${H}" fill="url(#ciel)"/>
+    <rect width="${W}" height="${H}" fill="url(#soleil)"/>`;
+
+  // Une crête : bruit lissé + éventuelle falaise (le Salève a une longue arête qui tombe d'un côté).
+  function crete(base, amp, rugosite, couleur, opacite, falaise) {
+    const pts = [];
+    const n = 160;
+    const octaves = [[1, 1], [2.3, .5], [5.1, .25], [11, rugosite]];
+    const phases = octaves.map(() => rnd() * Math.PI * 2);
+    for (let i = 0; i <= n; i++) {
+      const x = (i / n) * W;
+      let y = 0;
+      octaves.forEach(([f, a], k) => { y += Math.sin((i / n) * Math.PI * f + phases[k]) * a; });
+      y = base - y * amp;
+      if (falaise) {
+        // longue arête qui monte doucement vers la droite puis chute
+        const t = i / n;
+        y -= falaise * (t < .78 ? t / .78 : Math.max(0, 1 - (t - .78) / .07));
+      }
+      pts.push(`${x.toFixed(1)},${y.toFixed(1)}`);
+    }
+    const p = document.createElementNS(NS, 'path');
+    p.setAttribute('d', `M0,${H} L${pts.join(' L')} L${W},${H} Z`);
+    p.setAttribute('fill', couleur);
+    p.setAttribute('opacity', opacite);
+    svg.appendChild(p);
+  }
+
+  crete(900, 80, .08, '#8a8f86', .5);             // montagnes lointaines
+  crete(990, 40, .05, '#3c4b48', .95, 260);         // l'arête du Salève
+  const b = document.createElementNS(NS, 'rect');
+  b.setAttribute('x', 0); b.setAttribute('y', 900); b.setAttribute('width', W); b.setAttribute('height', 260);
+  b.setAttribute('fill', 'url(#brume)'); svg.appendChild(b);
+  crete(1110, 45, .12, '#26332f', 1);              // collines
+  crete(1200, 30, .18, '#1d2a28', 1);               // forêt proche
+  crete(1330, 22, .3, '#121c1b', 1);                // premier plan
+
+  const o = document.createElementNS(NS, 'rect');
+  o.setAttribute('width', W); o.setAttribute('height', H); o.setAttribute('fill', 'url(#ombre)');
+  svg.appendChild(o);
+</script>
+</body>
+</html>

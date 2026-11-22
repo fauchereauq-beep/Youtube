@@ -1,6 +1,6 @@
 # Mes vidéos
 
-> **👉 Prochaine action : demain, tourner les n°01, 02 et 04** avec leurs fiches, dans cet ordre. Une vidéo finie vaut mieux que trois à moitié.
+> **👉 Prochaine action : dans YouTube Studio → Personnalisation, colle la description (`chaine/description.txt`) et la bannière (`chaine/banniere.jpg`).** Ensuite, dis-moi quelles 2 vidéos sont prêtes : je prépare leurs textes pour les programmer.
 
 **Repères** — Cible : 🌍 Large · 💰 Client — Piliers : Frein · Peur · Anime (voir `CLAUDE.md`)
 **Statuts** : 💡 Idée → ✏️ Titre validé → 🎬 Tournée → ✅ Publiée
