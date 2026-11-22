@@ -18,6 +18,14 @@
 - **C** : tu tiens tes 3 cailloux empilés près du visage, avec un léger sourire fier. _(Prends cette photo après l'exercice.)_
 - 3 photos de chaque.
 
+**🎒 À prendre** : une pomme.
+
+**🎭 Faire ressentir**
+- 🌿 **La métaphore qu'on voit** : croque la pomme face caméra. « Ça, le goût, le bruit, le froid… Une IA connaît toutes les recettes de tarte aux pommes du monde. Elle n'a jamais croqué dedans. »
+- 💡 **La prise de conscience** : « Si demain l'IA faisait tout mieux que toi, tu arrêterais de créer ? Si oui, tu créais pour le résultat. Si non… c'est que tu crées pour ce que ça te fait. » Puis 2 secondes de silence.
+- 😄 **L'humour** : « Une IA pourrait écrire cette vidéo. Mais elle n'aurait jamais eu les pieds mouillés comme moi, là. »
+- 🎲 **Le jeu** : les 3 cailloux empilés (clé 7), et « montre-moi ta pile en commentaire, décris-la en un mot ».
+
 ---
 
 **1. 📍 La question et ta réponse cash** (20 s, la seule phrase écrite)

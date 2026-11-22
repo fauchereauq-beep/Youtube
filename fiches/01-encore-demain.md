@@ -2,7 +2,7 @@
 
 **3 combinaisons à tester** (titre + miniature)
 - **A** ⭐ : Tu n'es pas flemmard, ton corps te protège · « ENCORE DEMAIN… »
-- **B** : J'ai repoussé mon projet X ans. Ce n'était pas de la flemme. · « J'avais honte. » _(X = ton vrai nombre d'années. Pas de vrai chiffre ? On garde A et C.)_
+- **B** : J'ai repoussé cette vidéo 6 mois. Pas par flemme. · « FREIN À MAIN »
 - **C** : Ce que ton corps te dit quand tu remets à demain · pancarte « Lundi, promis. »
 **Météo du jour** : ⛈️ orage → 🌫️ brouillard · **Métaphore** : le frein à main
 **Structure** : Le Récit · **Durée visée** : 10 minutes · 7 clés = 7 lieux
@@ -12,23 +12,28 @@
 **📸 Photos pour les 3 miniatures** (sur place, au lieu de l'accroche, 2 minutes)
 - À chaque fois : ton visage sur le tiers gauche de l'image, la nature derrière toi, la droite vide pour le texte. Regard caméra.
 - **A** : coupable et amusé, comme pris en flagrant délit.
-- **B** : grave, regard direct, sans sourire.
+- **B** : grave, regard direct, sans sourire, une main fermée comme si tu tirais un frein à main.
 - **C** : tu tiens une feuille où tu as écrit au gros marqueur noir « Lundi, promis. », avec un demi-sourire. _(Prépare la feuille avant de partir.)_
 - 3 photos de chaque, puis tu me les envoies.
 
+**🎭 Faire ressentir**
+- 🌿 **La métaphore qu'on voit** : mime la voiture. Un pied qui écrase l'accélérateur, une main qui tire le frein à main, et le bruit du moteur qui hurle. Rien n'avance.
+- 💡 **La prise de conscience** : « Et toi, c'est quoi le projet que tu repousses ? Dis-le dans ta tête, là. » Puis 2 secondes de silence, regard caméra.
+- 😄 **L'humour** : tes vraies esquives de ces 6 mois, en liste, l'air de rien (« J'ai rangé mon bureau trois fois… »). Prends tes vraies.
+- 🎲 **Le jeu** : « Mets pause et écris en commentaire la pire excuse que tu t'es donnée. Je commence : … »
+
 ---
 
-**1. 📍 L'accroche** (30 s, la seule phrase écrite)
-> « Ce projet qui compte le plus pour toi, tu le repousses depuis des mois. Peut-être des années. Et tu te dis que t'es flemmard. C'est faux. C'est ton corps qui serre le frein à main. Et à la fin, je te donne un geste d'une minute pour le desserrer. »
+**1. 📍 L'accroche** (15 s, la seule phrase écrite)
+> « Cette vidéo, ça fait 6 mois que je la repousse. Et non, ce n'était pas de la flemme. C'était mon corps qui serrait le frein à main. Le tien aussi, sûrement. À la fin, je te donne un geste d'une minute pour le desserrer. »
 
-**Variante plus forte, seulement si c'est vrai** : commence par ta preuve perso.
-> « Cette vidéo, ça fait 6 mois que je la repousse. Et non, ce n'était pas de la flemme… »
+_Variante sans ta preuve perso_ : « Ce projet qui compte le plus pour toi, tu le repousses depuis des mois. Et tu te dis que t'es flemmard. C'est faux… »
 
 **2. 📍 Le rituel** (5 s)
 « Salut les créateurs. Oui, toi aussi. Allez, on marche. »
 
 **3. 📍 L'histoire** (2 min)
-- Quel projet a attendu chez toi ? Depuis combien de temps ?
+- Ces 6 mois : qu'est-ce que tu as fait à la place de cette vidéo ?
 - Le jour précis où tu as dit « demain » une fois de trop.
 - Ce que tu sentais dans le corps à ce moment-là.
 → Commence au milieu de la scène.

@@ -17,6 +17,12 @@
 - **C** : tu tiens une feuille où tu as écrit au gros marqueur noir « Et s'ils me jugent ? », visage un peu inquiet. _(Prépare la feuille avant de partir.)_
 - 3 photos de chaque.
 
+**🎭 Faire ressentir**
+- 🌿 **La métaphore qu'on voit** : joue le détecteur de fumée. « BIP ! BIP ! BIP ! » à pleine voix… pour un toast à peine grillé.
+- 💡 **La prise de conscience** : « Pense à la dernière fois que tu as vu quelqu'un oser un truc un peu ridicule. Tu y as pensé combien de temps ? Dix secondes ? Eh bien eux, c'est pareil pour toi. » Puis 2 secondes de silence.
+- 😄 **L'humour** : raconte l'expérience du t-shirt comme une blague (un t-shirt avec la tête d'un chanteur qu'on n'assume pas).
+- 🎲 **Le jeu** : « Le défi des 10 secondes : cette semaine, chante deux secondes en marchant dans la rue, et compte combien de gens te regardent vraiment. »
+
 ---
 
 **1. 📍 L'accroche** (30 s, la seule phrase écrite)

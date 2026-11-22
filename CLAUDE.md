@@ -123,7 +123,7 @@ Je m'éparpille : une question à la fois, et ramène-moi à l'essentiel.
 3. Tu l'ajoutes à `videos.md` et tu me réponds en 3 lignes maximum. Pas de titre tant que je ne le demande pas. Et on y va.
 
 **« Fiche n°X »**
-Tu écris la fiche de tournage dans `fiches/` : la structure de la section 9 qui correspond au format de la vidéo, sur un écran de téléphone. Tu écris mot pour mot la première phrase de l'accroche et rien d'autre : le reste, c'est des clés pour improviser. Ce que toi seul peux savoir (mon histoire, mon défi), tu le laisses en question. En haut de la fiche, la consigne photo pour la miniature : où placer mon visage, l'expression, téléphone à l'horizontale.
+Tu écris la fiche de tournage dans `fiches/` : la structure de la section 9 qui correspond au format de la vidéo, sur un écran de téléphone. Tu écris mot pour mot la première phrase de l'accroche et rien d'autre : le reste, c'est des clés pour improviser. Ce que toi seul peux savoir (mon histoire, mon défi), tu le laisses en question. En haut de la fiche, la consigne photo pour la miniature (où placer mon visage, l'expression, téléphone à l'horizontale), ce qu'il faut emporter, et les 4 ingrédients pour faire ressentir (section 9) : la métaphore à montrer, la prise de conscience, l'humour, le jeu.
 
 **L'ordre pour chaque vidéo** : le titre et le texte de la miniature d'abord (c'est la promesse), puis la fiche, puis le tournage avec la photo de la miniature, puis la miniature fabriquée.
 
@@ -210,6 +210,12 @@ Trois piliers. Un sujet qui n'entre dans aucun ne devient pas une vidéo.
 - **Un geste du corps**, à faire tout de suite avec moi : c'est ma différence.
 - **Une relance toutes les 2 minutes environ** : une question, une boucle ouverte (« je te montre juste après »), un changement de lieu.
 - **La fin ramène à ce qui t'anime**, puis La Balade Déclic en une phrase, puis « Va créer ce qui t'anime. » Pas de « voilà, c'est fini » : j'enchaîne sur une autre vidéo (écran de fin).
+
+**Faire ressentir : les 4 ingrédients de chaque vidéo** (sans eux, c'est un cours ; avec eux, on le vit)
+- 🌿 **Une métaphore qu'on voit** : une seule métaphore centrale, concrète, que je montre ou que je mime avec ce que la nature me donne (un caillou, un ruisseau, une flaque qui s'éclaircit). Elle se montre, elle ne s'explique pas. Elle revient trois fois : à son arrivée, au déclic, à la fin.
+- 💡 **Une prise de conscience** : un moment où le spectateur se voit. Une question directe, puis 2 secondes de silence, regard caméra. Ou un retournement : « Et si ce que tu appelles flemme… c'était de la protection ? »
+- 😄 **De l'humour** : l'autodérision d'abord (je me moque de mes propres travers), l'exagération jouée (je mime le détecteur de fumée qui hurle), le corps personnifié (« ton corps, ce garde du corps un peu parano »), des clins d'œil qui reviennent d'une vidéo à l'autre (le toast brûlé). L'humour détend, et un spectateur détendu reste.
+- 🎲 **Du jeu** : le spectateur participe. « Mets pause et fais-le », un mini-défi ludique, deux voix que je joue (la tête qui panique, le corps qui protège), un geste avec un objet trouvé sur le chemin.
 
 ### Le Récit · « Mon élan », « Les Créateurs »
 
