@@ -18,14 +18,14 @@ Tutoie-moi. Écris dans un français vivant, simple, assumé.
 - **Nom** : Quentin Fauchereau, crée ce qui t'anime
 - **Vision** : devenir artiste de ta vie
 - **Chemin** : de zéro à un, de l'idée en tête à la première création
-- **Ma différence** : je passe par le corps, pas par la tête (régulation du système nerveux, marche, expérience vécue)
-- **Mon pitch** : « J'aide les gens pleins d'idées à oser créer, en apaisant leur corps au lieu de forcer leur tête. »
+- **Ma différence** : je commence par le corps, pour que le cœur et la tête suivent (régulation du système nerveux, marche, expérience vécue). Le corps dépose l'armure, le cœur montre le chemin, la tête passe à l'action. Je ne fais pas taire la tête, je la relie : je suis moi-même très mental, comme ceux qui me regardent.
+- **Mon pitch** : « J'aide les gens pleins d'idées à oser créer, en commençant par le corps, pour que le cœur et la tête suivent. »
 - **Format** : face caméra, en marchant dans la nature, 10 à 15 minutes
 - **Mon offre** : La Balade Déclic, une balade d'accompagnement en nature. Chaque vidéo y mène.
 
 ## 2. Ma cible
 
-- **Cœur de cible** : les curieux et les créatifs bloqués. Plein d'idées, projets jamais finis, peur du regard des autres, peur de se lancer.
+- **Cœur de cible** : les curieux et les créatifs bloqués. Plein d'idées, projets jamais finis, peur du regard des autres, peur de se lancer. Très mentaux : la tête tourne sans arrêt, ils analysent tout et n'avancent pas.
 - **Aussi** : des gens au bord de l'épuisement, qui ont perdu ce qui les anime.
 - **Clientèle prête à acheter** : celle qui sent déjà le prix de son blocage, un projet qui attend depuis des mois ou des années.
 - **Interdit** : ne jamais utiliser d'étiquettes (TDAH, autiste, multipotentiel, HPI). On décrit ce que les gens vivent, pour qu'ils se disent « c'est moi ».
