@@ -26,6 +26,11 @@
 - 😄 **L'humour** : « Une IA pourrait écrire cette vidéo. Mais elle n'aurait jamais eu les pieds mouillés comme moi, là. »
 - 🎲 **Le jeu** : les 3 cailloux empilés (clé 7), et « montre-moi ta pile en commentaire, décris-la en un mot ».
 
+**🔁 Tes 3 relances**
+- 🪝 **Ouvrir** (accroche) : « Il y a une chose qu'aucune IA ne fera jamais à ta place. Je te la montre avec une pomme, tout à l'heure. »
+- 🔁 **Au milieu** (après le 1er argument) : « Et le 2e argument, c'est celui que personne ne voit. »
+- ✅ **Refermer** (clé 7) : « Je t'avais dit qu'on créerait un truc ensemble. Ramasse 3 cailloux. »
+
 ---
 
 **1. 📍 La question et ta réponse cash** (20 s, la seule phrase écrite)

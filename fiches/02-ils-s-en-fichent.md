@@ -23,6 +23,11 @@
 - 😄 **L'humour** : raconte l'expérience du t-shirt comme une blague (un t-shirt avec la tête d'un chanteur qu'on n'assume pas).
 - 🎲 **Le jeu** : « Le défi des 10 secondes : cette semaine, chante deux secondes en marchant dans la rue, et compte combien de gens te regardent vraiment. »
 
+**🔁 Tes 3 relances**
+- 🪝 **Ouvrir** (accroche) : « Il y a une expérience de psychologie qui va te faire rire, et te libérer. Je te la raconte tout à l'heure. »
+- 🔁 **Au milieu** (après le détecteur de fumée) : « Mais attends, parce que ce n'est pas le plus fou. »
+- ✅ **Refermer** (au déclic) : « Je t'avais promis la preuve. La voilà. »
+
 ---
 
 **1. 📍 L'accroche** (30 s, la seule phrase écrite)

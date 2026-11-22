@@ -7,7 +7,7 @@ Tutoie-moi. Écris dans un français vivant, simple, assumé.
 - `CLAUDE.md` (ce fichier) : qui je suis, mes règles, ta méthode.
 - `videos.md` : le plan de toutes mes vidéos. **C'est toi qui le tiens à jour.**
 - `inspiration.md` : ce qui cartonne dans mon thème (modèles de titres, miniatures) et la banque d'idées.
-- `fiches/` : une fiche de tournage par vidéo, à lire sur mon téléphone avant de filmer.
+- `fiches/` : une fiche de tournage par vidéo, à lire sur mon téléphone avant de filmer, et `fiches/00-phrases-qui-retiennent.md`, ma boîte à phrases pour garder le spectateur.
 - `miniatures/` : mes photos dans `miniatures/photos/`, les miniatures fabriquées à côté, et un seul script `miniatures/fabrique.py`.
 - `outils/veille.py` : l'outil qui repère les vidéos qui explosent sur YouTube. Il a besoin de l'environnement cloud « Youtube », qui autorise youtube.com.
 
@@ -123,7 +123,7 @@ Je m'éparpille : une question à la fois, et ramène-moi à l'essentiel.
 3. Tu l'ajoutes à `videos.md` et tu me réponds en 3 lignes maximum. Pas de titre tant que je ne le demande pas. Et on y va.
 
 **« Fiche n°X »**
-Tu écris la fiche de tournage dans `fiches/` : la structure de la section 9 qui correspond au format de la vidéo, sur un écran de téléphone. Tu écris mot pour mot la première phrase de l'accroche et rien d'autre : le reste, c'est des clés pour improviser. Ce que toi seul peux savoir (mon histoire, mon défi), tu le laisses en question. En haut de la fiche, la consigne photo pour la miniature (où placer mon visage, l'expression, téléphone à l'horizontale), ce qu'il faut emporter, et les 4 ingrédients pour faire ressentir (section 9) : la métaphore à montrer, la prise de conscience, l'humour, le jeu.
+Tu écris la fiche de tournage dans `fiches/` : la structure de la section 9 qui correspond au format de la vidéo, sur un écran de téléphone. Tu écris mot pour mot la première phrase de l'accroche et rien d'autre : le reste, c'est des clés pour improviser. Ce que toi seul peux savoir (mon histoire, mon défi), tu le laisses en question. En haut de la fiche, la consigne photo pour la miniature (où placer mon visage, l'expression, téléphone à l'horizontale), ce qu'il faut emporter, les 4 ingrédients pour faire ressentir (section 9) : la métaphore à montrer, la prise de conscience, l'humour, le jeu, et 3 relances placées (la boucle ouverte, une relance au milieu, la boucle refermée), précises pour cette vidéo.
 
 **L'ordre pour chaque vidéo** : le titre et le texte de la miniature d'abord (c'est la promesse), puis la fiche, puis le tournage avec la photo de la miniature, puis la miniature fabriquée.
 
@@ -208,7 +208,7 @@ Trois piliers. Un sujet qui n'entre dans aucun ne devient pas une vidéo.
 - **Le rituel juste après** : « Salut les créateurs. Oui, toi aussi. Allez, on marche. » (5 secondes)
 - **La météo du corps** (section 10) passe au moins une fois : c'est ma signature.
 - **Un geste du corps**, à faire tout de suite avec moi : c'est ma différence.
-- **Une relance toutes les 2 minutes environ** : une question, une boucle ouverte (« je te montre juste après »), un changement de lieu.
+- **Une relance toutes les 2 minutes environ** : une question, une boucle ouverte (« je te montre juste après »), un changement de lieu. Je pioche dans `fiches/00-phrases-qui-retiennent.md`. La règle : une relance annonce quelque chose de **précis** qui arrive **vraiment**. Une boucle ouverte dans l'accroche, refermée avant la fin. Jamais deux fois la même phrase dans une vidéo.
 - **La fin ramène à ce qui t'anime**, puis La Balade Déclic en une phrase, puis « Va créer ce qui t'anime. » Pas de « voilà, c'est fini » : j'enchaîne sur une autre vidéo (écran de fin).
 
 **Faire ressentir : les 4 ingrédients de chaque vidéo** (sans eux, c'est un cours ; avec eux, on le vit)

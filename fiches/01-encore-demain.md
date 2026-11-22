@@ -22,6 +22,11 @@
 - 😄 **L'humour** : tes vraies esquives de ces 6 mois, en liste, l'air de rien (« J'ai rangé mon bureau trois fois… »). Prends tes vraies.
 - 🎲 **Le jeu** : « Mets pause et écris en commentaire la pire excuse que tu t'es donnée. Je commence : … »
 
+**🔁 Tes 3 relances**
+- 🪝 **Ouvrir** (accroche) : « À la fin, je te donne le geste d'une minute qui m'a enfin fait tourner cette vidéo. »
+- 🔁 **Au milieu** (après l'histoire) : « Et c'est là que j'ai compris un truc sur mon corps. Garde-le en tête, il va servir. »
+- ✅ **Refermer** (avant l'exercice) : « Je t'avais promis un geste. Le voilà. Fais-le avec moi, maintenant. »
+
 ---
 
 **1. 📍 L'accroche** (15 s, la seule phrase écrite)

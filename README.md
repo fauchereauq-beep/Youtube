@@ -20,7 +20,7 @@
 ## Les fichiers
 
 - **`videos.md`** : ton plan. Commence toujours par là : la prochaine action est en haut.
-- **`fiches/`** : une fiche par vidéo, à ouvrir avant de filmer.
+- **`fiches/`** : une fiche par vidéo, à ouvrir avant de filmer. Et la boîte à phrases qui retiennent (`00-phrases-qui-retiennent.md`).
 - **`inspiration.md`** : ce qui marche sur YouTube dans ton thème, et la réserve d'idées.
 - **`CLAUDE.md`** : tes règles complètes, pour moi. Tu n'as pas besoin de le lire.
 - `outils/` : l'outil de veille. Tu n'y touches pas.
